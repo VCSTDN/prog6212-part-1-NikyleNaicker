@@ -1,0 +1,16 @@
+Some info
+This Project was created using MVVM
+Please open the solution using visual studio.
+Click start with the green play symbol.
+The application will open on a maximised window.
+Clicking the modules button will open up a dialog window where you can add your modules.
+Click the add butoon top left to add a dummy module.
+The module can then be edited by selecting it and editing the textboxs on the right.
+Modules can also be deleted by selecting the appropriate one and click the delete button on the top left.
+Close the dialog window to return to the main window.
+Click the semester button to add the semester details.
+The same controls are used for adding, deleting and editing semester details as the module dialog window.
+Close the dialog window to return to the main window.
+In the main window is where the user can record their self study details.
+It has the same controls as the dialog windows except for the delete function
+## Note please click the header (hours of self study left) so the data grid can refresh ONLY after adding a new entry
